@@ -1,5 +1,5 @@
 body {
-  font-family: 'Courier New', Courier, monospace;
+  font-family: "Courier New", Courier, monospace;
 }
 
 img {
@@ -43,4 +43,5 @@ body {
 
 .info {
   max-width: 200px;
+  justify-content: center;
 }
